@@ -36,8 +36,7 @@ Each model serves a unique purpose, from providing a simple baseline to capturin
 ## Implementation
 ![image](https://github.com/Kartikkeyy/Inventory_Demand_Analysis_ML/assets/107746395/4f93bcaa-af56-4a95-8141-f1dce82b3022)
 <br>
-Link of flowchart: 
-https://boardmix.com/app/share/CAE.CLPGHSABKhBL50COWaAli703L1PBFUeQMAZAAQ/GnZ7qX，
+
 
 <br>
 **Project Overview:**
